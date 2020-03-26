@@ -25,6 +25,9 @@ Hardware and Software requirements:
 8.   Soldering equipment and connecting wires
 9.   Cap
 10. Battery(8V)
+
+[image](https://user-images.githubusercontent.com/57819870/77649079-347f8400-6f8f-11ea-84ce-39035f9630af.png)
+
  
 
 METHODOLOGY: Part 1:
