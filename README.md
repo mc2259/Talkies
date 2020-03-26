@@ -12,6 +12,8 @@ My hat has an ultrasonic at the back and LED's at front which can notify the use
 
 ![image](https://user-images.githubusercontent.com/57819870/77649327-b2dc2600-6f8f-11ea-8d29-e3efcebe4b93.png)
 
+![image](https://user-images.githubusercontent.com/57819870/77650111-f5523280-6f90-11ea-86b5-e272c0b474f7.png)
+
 # FURTHER DEVELOPEMENT
 
 1. My app  is based on an English interface  and so I want to incorporate regional languages in it so that it is accessible to people in small communities. 
