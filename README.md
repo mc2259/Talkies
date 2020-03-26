@@ -9,6 +9,7 @@ me.Another rampant problem is that most people do not understand sign language.L
 These specific issues have been unadresssed so far by existing devices and that is why I want to adress it in my research. My app overcomes the barrier of sign language by using voice recognition technology and allows back -to-back conversation; i.e the challenged person hears ,there is a time delay when he responds (using electronic voice if he is speech disabled) and then the app detects the voice of the other person and so on.This is the most unique feature of my app.
 Another issue that touches me is that speech impaired people cannot protest if they feel uncomfortable or threatened in public. That is where my electronic help voice will come in handy.This feature is also not available currently in any app for speech-impaired people.
 My hat has an ultrasonic at the back and LED's at front which can notify the user of cars honking behind them. Some types of Blind sticks exist which help the visually challenged navigate, however there are no devices  aimed at helping the deaf detect traffic even though they too face similar problems in navigation.The harrassment  faced by Kamal is what made me aware of the need for such a device specifically aimed at those hard of hearing.
+![image](https://user-images.githubusercontent.com/57819870/77649327-b2dc2600-6f8f-11ea-8d29-e3efcebe4b93.png)
 
 # FURTHER DEVELOPEMENT
 
@@ -40,7 +41,7 @@ Hardware and Software requirements:
 
 10. Battery(8V)
 
-![image](https://user-images.githubusercontent.com/57819870/77649327-b2dc2600-6f8f-11ea-8d29-e3efcebe4b93.png)
+
 
  
 
