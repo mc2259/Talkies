@@ -26,7 +26,7 @@ Hardware and Software requirements:
 9.   Cap
 10. Battery(8V)
 
-(https://user-images.githubusercontent.com/57819870/77649079-347f8400-6f8f-11ea-84ce-39035f9630af.png)
+![image](https://user-images.githubusercontent.com/57819870/77649327-b2dc2600-6f8f-11ea-8d29-e3efcebe4b93.png)
 
  
 
